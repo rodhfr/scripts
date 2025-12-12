@@ -3,7 +3,7 @@
 echo "# Scripts" > README.md
 {
   echo '```'
-  tree .
+  tree . -I ".git"
   echo '```'
 } >> README.md
 git add .
