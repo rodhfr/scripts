@@ -1,7 +1,7 @@
 # Scripts
 ```
 .
-├── gtp.sh
+├── autobump.sh
 ├── image_blur
 │   ├── cmd_blur_img_dessaturate.sh
 │   └── cmd_blur_img.sh
